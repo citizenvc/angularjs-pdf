@@ -6,7 +6,7 @@
   "license": "MIT",
   "homepage": "http://github.com/sayanee/angularjs-pdf",
   "dependencies": {
-     "angular-latest": "1.2.25",
+     "angular": "1.2.25",
      "pdfjs-dist": "1.0.833"
   }
 }
